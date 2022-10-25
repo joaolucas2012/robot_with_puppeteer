@@ -1,0 +1,24 @@
+{
+  "name": "robot-with-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaolucas2012/robot-with-puppeteer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaolucas2012/robot-with-puppeteer/issues"
+  },
+  "homepage": "https://github.com/joaolucas2012/robot-with-puppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^19.1.2"
+  }
+}
